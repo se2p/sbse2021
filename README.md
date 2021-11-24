@@ -16,3 +16,7 @@ This chapter covers basic evolutionary strategies and genetic algorithms.
 This chapter covers the basics of Pareto optimality, NSGA-II, and comparison
 of multi-objective search algorithms.
 
+## Chapter 4: Multi-Objective Optimisation (Part 2)
+
+This chapter covers several alternative multi-objective search algorithms:
+A random baseline, PAES, SPEA2, TwoArchives, and SMS-EMOA.
