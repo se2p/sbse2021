@@ -20,3 +20,10 @@ of multi-objective search algorithms.
 
 This chapter covers several alternative multi-objective search algorithms:
 A random baseline, PAES, SPEA2, TwoArchives, and SMS-EMOA.
+
+## Chapter 5: Evolutionary Search (Part 2)
+
+This chapter looks into the various search operators of a genetic algorithm:
+Survivor selection, parent selection, crossover, mutation, and the
+population itself.
+
