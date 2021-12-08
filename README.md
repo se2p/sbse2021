@@ -27,3 +27,10 @@ This chapter looks into the various search operators of a genetic algorithm:
 Survivor selection, parent selection, crossover, mutation, and the
 population itself.
 
+## Chapter 6: Search-based Test Generation (Part 1)
+
+This chapter looks at how the problem of test input generation can be cast
+as a search problem, and how to automatically instrument programs for
+fitness generation. 
+
+
