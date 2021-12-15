@@ -33,4 +33,7 @@ This chapter looks at how the problem of test input generation can be cast
 as a search problem, and how to automatically instrument programs for
 fitness generation. 
 
+## Chapter 7: Search-based Test Generation (Part 2)
 
+This chapter continues whole test suite generation, and then moves on to
+many objective optimisation for test generation.
