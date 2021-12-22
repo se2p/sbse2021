@@ -37,3 +37,8 @@ fitness generation.
 
 This chapter continues whole test suite generation, and then moves on to
 many objective optimisation for test generation.
+
+## Chapter 8: Genetic Programming (Part 1)
+
+This chapter introduces classic genetic programming for scenarios assuming
+type closure, and applies this to symbolic regression.
