@@ -42,3 +42,8 @@ many objective optimisation for test generation.
 
 This chapter introduces classic genetic programming for scenarios assuming
 type closure, and applies this to symbolic regression.
+
+## Chapter 9: Genetic Programming (Part 2)
+
+This chapter continues genetic programming by optimising spectrum-based
+fault localisation, grammatical evolution, and automated program repair.
