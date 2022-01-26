@@ -47,3 +47,9 @@ type closure, and applies this to symbolic regression.
 
 This chapter continues genetic programming by optimising spectrum-based
 fault localisation, grammatical evolution, and automated program repair.
+
+## Chapter 10: Parameter Tuning and Parameter Control
+
+This chapter considers how to choose values for the many parameters that we
+have introduced in our evolutionary algorithms, how to optimise these
+values, and how to adapt them to new problems.
