@@ -53,3 +53,21 @@ fault localisation, grammatical evolution, and automated program repair.
 This chapter considers how to choose values for the many parameters that we
 have introduced in our evolutionary algorithms, how to optimise these
 values, and how to adapt them to new problems.
+
+## Chapter 11: Advanced Evolutionary Algorithms
+
+This chapter considers several advanced variants of the evolutionary
+algorithms we have discussed in previous chapter: Memetic algorithms combine
+global and local search; island model GAs divide the population of a GA into
+independent subpopulations; estimation of distribution algorithms try to
+explicitly optimise the probability distribution that is otherwise
+implicitly represented by the population; differential evolution uses novel
+search operators unlike the ones we have used in standard GAs; hyper 
+heuristics try to combine different heuristics to adapt to the problem at hand.
+
+## Chapter 12: Swarm Optimisation
+
+This chapter briefly introduces two swarm optimisation techniques: Ant colony optimisation
+tries to imitate the stigmergic communication of ants for the purpose of
+optimisation. Particle swarm optimisation simulates the swarm behaviour of
+birds or fish.
