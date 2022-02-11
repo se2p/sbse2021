@@ -71,3 +71,10 @@ This chapter briefly introduces two swarm optimisation techniques: Ant colony op
 tries to imitate the stigmergic communication of ants for the purpose of
 optimisation. Particle swarm optimisation simulates the swarm behaviour of
 birds or fish.
+
+## Chapter 13: Neuroevolution
+
+This chapter exemplifies how the search techniques we've considered in the
+context of regular software engineering tasks can also be generalised to the
+problem of evolving neural networks, in particular using the NEAT
+(Neuro-Evolution of Augmenting Topologies) algorithm.
